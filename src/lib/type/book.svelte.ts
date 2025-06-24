@@ -1,4 +1,4 @@
-import type { NaiveVersion, Version } from "../edition";
+import type { NaiveVersion, Version } from "../../edition";
 
 export const readingVersion: {
     version: Version | NaiveVersion | undefined

@@ -6,7 +6,7 @@
   import Header from './lib/Header.svelte';
   import Timeline from './lib/Timeline.svelte';
   import Tooltip from './lib/Tooltip.svelte';
-  import { hoveredVersions } from './lib/tooltip.svelte.js';
+  import { hoveredVersions } from './lib/type/tooltip.svelte';
   import Cookies from 'js-cookie';
 
   function getCookieFlag(name: string, defaultValue: boolean): boolean {
