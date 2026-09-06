@@ -29,6 +29,44 @@ export const events: Version[] = [
   },
 
   {
+    title: 'Minecon 2013',
+    type: 'event',
+    date: '2013-11-02',
+    icon: 'common/event_live.png',
+    learnMore: '@MINECON_2013',
+    longDescription: [
+      'The third official Minecon event held in 2013 in Orlando, Florida.',
+      'There were many activities such as a build competition, a costume contest, and more.',
+    ],
+  },
+
+  {
+    title: 'Minecon 2015',
+    type: 'event',
+    date: '2015-07-04',
+    icon: 'common/event_live.png',
+    learnMore: '@MINECON_2015',
+    longDescription: [
+      'The fourth official Minecon event held in 2015 in London.',
+      'There was a first preview of the Combat Update during this event, which was released a few months later.',
+      'There were keynotes from Notch and other developers as well as many activities such as a build competition, a costume contest, and more.',
+    ],
+  },
+
+  {
+    title: 'Minecon 2016',
+    type: 'event',
+    date: '2016-09-24',
+    icon: 'common/event_live.png',
+    learnMore: '@MINECON_2016',
+    longDescription: [
+      'The fifth and final official Minecon event held in 2016 in Anaheim, California. Minecones were replaced by Minecon Live, a live streamed event after this one.',
+      'There was a first preview of the Exploration Update during this event, which was released a few months later.',
+      'There were keynotes from Notch and other developers as well as many activities such as a build competition, a costume contest, and more.',
+    ],
+  },
+
+  {
     title: 'Game bought by Microsoft',
     type: 'event',
     date: '2014-11-06',
