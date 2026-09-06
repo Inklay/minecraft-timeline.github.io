@@ -5,7 +5,7 @@ export const events: Version[] = [
     title: 'Minecon 2011',
     type: 'event',
     date: '2011-11-18',
-    icon: 'common/event_minecon_2011.png',
+    icon: 'common/event_live.png',
     learnMore: '@MINECON_2011',
     longDescription: [
       'The first official Minecon event held in 2011 at Las Vegas.',
@@ -18,7 +18,7 @@ export const events: Version[] = [
     title: 'Minecon 2012',
     type: 'event',
     date: '2012-11-24',
-    icon: 'common/event_minecon_2012.png',
+    icon: 'common/event_live.png',
     learnMore: '@MINECON_2012',
     longDescription: [
       'The second official Minecon event held in 2012 at Disney land Paris.',

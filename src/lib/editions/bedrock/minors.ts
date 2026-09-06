@@ -2431,4 +2431,14 @@ export const minors: Version[] = [
       { text: 'Small Changes and Bug Fixes' },
     ],
   },
+
+  {
+    subtitle: '26.45',
+    type: 'minor',
+    date: '2026-08-28',
+    learnMore: '@Bedrock_Edition_26.45',
+    mainFeatures: [
+      { text: 'Small Changes and Bug Fixes' },
+    ],
+  },
 ] as const

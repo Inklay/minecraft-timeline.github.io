@@ -2,17 +2,7 @@ import type { NaiveVersion } from '..'
 
 export const upcomings: NaiveVersion[] = [
   {
-    subtitle: '26.45',
-    type: 'minor',
-    possibleDate: 'End of august',
-    learnMore: '@Bedrock_Edition_26.45',
-    minorFeatures: [
-      { text: 'Small Changes and Bug Fixes' },
-    ],
-  },
-
-  {
-    title: 'Third Drop 2026',
+    title: 'Wilderness Bound',
     subtitle: '26.50',
     description: 'Concrete and wool stairs and slabs, poplar wood set, dappled forest biome, cushions',
     type: 'drop',

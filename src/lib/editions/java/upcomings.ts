@@ -18,7 +18,7 @@ export const upcomings: NaiveVersion[] = [
   },
 
   {
-    title: 'Third Drop 2026',
+    title: 'Wilderness Bound',
     subtitle: '26.3',
     description: 'Concrete and wool stairs and slabs, poplar wood set, dappled forest biome, cushions',
     type: 'drop',
